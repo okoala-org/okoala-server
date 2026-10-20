@@ -65,3 +65,11 @@ This repository hosts the OKoala server codebase.
 Copyright © 2026 IASoft (PVT) LTD.
 
 Licensed under the [AGPL, version 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). See [COPYING](COPYING).
+
+## Use of AI in this Project
+
+Our engineers design each component. Claude (by Anthropic) writes most of the code,
+and an engineer reviews it before it counts as reviewed.
+
+Commits up to the one listed in [ni-review-log.md](ni-review-log.md) have been
+reviewed by an engineer. Later commits have not yet been reviewed.
